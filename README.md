@@ -1,4 +1,4 @@
 # Challenge-Synapsis.id
 
-username: tomi
+username: tomi,
 password: password
